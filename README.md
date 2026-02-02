@@ -16,7 +16,7 @@ This project is a mobile application UI designed using **Figma** for tracking **
 - Figma (UI/UX Design)
 
 ## 🔗 Live UI Preview (Figma)
-👉 **[Click here to view the live design]**  
+👉 **[[Click here to view the live design](https://www.figma.com/make/OOedIlNnraBRNu74IIxDzO/Electric---Petrol-Pump-Tracking-App-%E2%80%93-UI?t=o2INIsBE9iYjeH7W-20&fullscreen=1)]**  
 (Paste your Figma link here)
 
 ## 📌 Note
